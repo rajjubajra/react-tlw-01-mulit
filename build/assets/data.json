@@ -1,0 +1,39 @@
+{
+  "MainMenu":[
+    {
+      "id": "1",
+      "name": "Microsoft365",
+      "link": "/"
+    },
+    {
+      "id": "2",
+      "name": "Office",
+      "link":"/"
+    },
+    {
+      "id": "3",
+      "name": "Windows",
+      "link": "/"
+    },
+    {
+      "id": "4",
+      "name": "Surface",
+      "link": "/"
+    },
+    {
+      "id": "5",
+      "name": "Xbox",
+      "link":"/"
+    },
+    {
+      "id": "6",
+      "name": "Deals",
+      "link":"/"
+    },
+    {
+      "id": "7",
+      "name": "Supports",
+      "link":"/"
+    }
+  ]
+}
